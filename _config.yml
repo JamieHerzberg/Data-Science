@@ -1,5 +1,5 @@
 title: DS Portfolio
-# logo: /Images/profilephoto.jpg  ← Comment this out or remove it for now
+logo: /Images/userphoto.jpg
 description: A sample histogram from my data science project
 show_downloads: true
 theme: jekyll-theme-minimal
