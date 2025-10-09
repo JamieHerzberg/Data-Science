@@ -1,4 +1,4 @@
 # Work evaluation project
 # Public project
 <!-- this is a comment --> 
-![Histogram]/histogram-example-2.png
+![Histogram]/Images/histogram-example-2 (1).png
