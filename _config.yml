@@ -1,5 +1,5 @@
- title: DS Portfolio
-logo: /images/profilephoto.jpg
-#description: text below image
+title: DS Portfolio
+logo: /Images/histogram-example-2.png
+description: A sample histogram from my data science project
 show_downloads: true
-theme: jekyll-theme-minimal 
+theme: jekyll-theme-minimal
