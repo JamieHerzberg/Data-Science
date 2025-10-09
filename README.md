@@ -1,4 +1,6 @@
-# Work evaluation project
-# Public project
-<!-- this is a comment --> 
-Data-Science/Images/histogram-example-2(1).png
+# Work Evaluation Project
+
+Welcome to my data science portfolio. Here's a sample histogram from my analysis:
+
+!Histogram Example
+
