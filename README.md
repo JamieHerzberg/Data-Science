@@ -3,7 +3,7 @@
 ## Overview
 This portfolio showcases two projects:
 - **Spotify Hit Prediction** | Predicting hit songs using logistic regression (_Full Project_)
-- **Opportunity Win Prediction** | Tiering opportunities based on predicted probabilities (_Summary_)
+- **Opportunity Win Prediction** | Tiering opportunities based on predicted probabilities using logistic regression (_Summary_)
 
 
 ## Project 1: Spotify Hit Prediction
