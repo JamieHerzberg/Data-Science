@@ -1,11 +1,12 @@
 # Data Science Professional Practice Portfolio
 
-## 📌 Overview
+## Overview
 This portfolio showcases two projects:
-- **Spotify Hit Prediction**: Predicting hit songs using logistic regression.
-- **Opportunity Win Prediction (Summary)**: Tiering opportunities based on predicted probabilities.
+- **Spotify Hit Prediction** | Predicting hit songs using logistic regression (_Full Project_)
+- **Opportunity Win Prediction** | Tiering opportunities based on predicted probabilities (_Summary_)
 
-## 🔍 Project 1: Spotify Hit Prediction
+
+## Project 1: Spotify Hit Prediction
 - **Theme**: Predicting hit songs using track attributes.
 - **Data Source**: Kaggle Spotify dataset.
 - **Data Story**: Explore how danceability, energy, and valence influence hit probability.
@@ -13,7 +14,7 @@ This portfolio showcases two projects:
 - **Takeaways**: F1 score threshold ≥ 0.7 for reliability.
 - **Recommendations**: Use model for global ad campaigns.
 
-## 🔍 Project 2: Opportunity Win Prediction (Summary)
+## Project 2: Opportunity Win Prediction (Summary)
 - **Theme**: Predicting opportunity success likelihood.
 - **Data Source**: Salesforce (internal).
 - **Data Story**: Tier opportunities into High, Medium, Lower But Don’t Neglect.
