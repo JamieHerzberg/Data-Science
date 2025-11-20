@@ -1,9 +1,22 @@
-# Work Evaluation Project
+# Data Science Professional Practice Portfolio
 
-# Public Project
-Welcome to my data science portfolio. Here's a sample histogram from my analysis:
+## 📌 Overview
+This portfolio showcases two projects:
+- **Spotify Hit Prediction**: Predicting hit songs using logistic regression.
+- **Opportunity Win Prediction (Summary)**: Tiering opportunities based on predicted probabilities.
 
-<br>
+## 🔍 Project 1: Spotify Hit Prediction
+- **Theme**: Predicting hit songs using track attributes.
+- **Data Source**: Kaggle Spotify dataset.
+- **Data Story**: Explore how danceability, energy, and valence influence hit probability.
+- **Visualisations**: Violin plots, ROC curve.
+- **Takeaways**: F1 score threshold ≥ 0.7 for reliability.
+- **Recommendations**: Use model for global ad campaigns.
 
-![Histogram Example](Images/histogram-example-2.png)
-
+## 🔍 Project 2: Opportunity Win Prediction (Summary)
+- **Theme**: Predicting opportunity success likelihood.
+- **Data Source**: Salesforce (internal).
+- **Data Story**: Tier opportunities into High, Medium, Lower But Don’t Neglect.
+- **Visualisations**: Excel dashboard screenshot with disclaimer.
+- **Takeaways**: Tiering helps prioritisation without ignoring low-likelihood opportunities.
+- **Recommendations**: Use tiering for balanced sales strategy.
