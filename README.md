@@ -1,4 +1,4 @@
-# Data Science Professional Practice Portfolio
+# Data Science Portfolio
 
 ## Overview
 This portfolio showcases two projects:
